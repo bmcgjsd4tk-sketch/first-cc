@@ -16,7 +16,7 @@ function createWindow() {
         resizable: false,
         titleBarStyle: 'hidden',
         // macOS样式
-        title: '番茄钟'
+        title: '番茄时钟'
     });
 
     // 加载index.html
